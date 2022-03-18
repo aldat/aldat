@@ -5,9 +5,8 @@ Hi 👋, I am a Software Engineer based in the US. Mostly work on backend system
 I code in Java, Python, Javascript and trying my hands on GoLang and Kotlin
 
 #### 🤝 Lets Connect:
-- Follow me on GitHub and lets chat about what you are working on
-- [Linkedin](https://www.linkedin.com/in/dataworld/)
-- [Telegram](https://t.me/alekyad)
+- Follow here on GitHub
+- [Linkedin](https://www.linkedin.com/in/dataworld/) | [Telegram](https://t.me/alekyad) | [Leetcode](https://leetcode.com/alekyad)
 
 <!--
 **aldat/aldat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
