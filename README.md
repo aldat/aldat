@@ -1,8 +1,8 @@
-### Alekya
+## Alekya 👩🏻‍🏫
 
-Hi 👋, I am a Software Engineer based in the US. Mostly work on backend systems at work but venturing into Android and mobile development in my free time.
+Hi 👋, I am a Software Engineer based in the US. I work on big data, backend engineering and venturing into Android and mobile development.
 
-I code in Java, Python, Javascript and trying my hands on GoLang and Kotlin
+I code in Java, Python, Javascript and trying my hands on GoLang and Kotlin, Flutter
 
 #### 🤝 Lets Connect:
 - Follow here on GitHub
