@@ -5,8 +5,8 @@ Hi 👋, I am a Software Engineer based in the US. I work on big data, backend e
 I code in Java, Python, Javascript and trying my hands on GoLang and Kotlin, Flutter
 
 #### 🤝 Lets Connect:
-- Follow here on GitHub
-- [Linkedin](https://www.linkedin.com/in/dataworld/) | [Telegram](https://t.me/alekyad) | [Leetcode](https://leetcode.com/alekyad)
+
+[GitHub](https://github.com/aldat) | [Linkedin](https://www.linkedin.com/in/dataworld/) | [Telegram](https://t.me/alekyad) | [Leetcode](https://leetcode.com/alekyad)
 
 <!--
 **aldat/aldat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
